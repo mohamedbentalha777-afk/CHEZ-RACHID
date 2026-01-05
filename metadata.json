@@ -1,0 +1,7 @@
+{
+  "name": "Restaurant Chez Rachid - Foum Zguid",
+  "description": "A professional multilingual website for Restaurant Chez Rachid in Foum Zguid, Morocco, featuring traditional Saharan hospitality and local cuisine.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
